@@ -1,0 +1,1711 @@
+{
+    "description": "DO NOT DELETE THIS FILE. This file is used to keep track of which files have been synced in the most recent deployment. If you delete this file a resync will need to be done (which can take a while) - read more: https://github.com/SamKirkland/FTP-Deploy-Action",
+    "version": "1.0.0",
+    "generatedTime": 1663232842336,
+    "data": [
+        {
+            "type": "file",
+            "name": ".DS_Store",
+            "size": 8196,
+            "hash": "bf4e7e11236fa2b562ab68c2eae9c07bb3bafd2cf04a0d2575f9dc4e2d2d749a"
+        },
+        {
+            "type": "folder",
+            "name": "acedata"
+        },
+        {
+            "type": "folder",
+            "name": "data"
+        },
+        {
+            "type": "file",
+            "name": "db.sqlite3",
+            "size": 241664,
+            "hash": "f64c866060cce3fb49c69344d446e4ab96265f57de50fd36cc3d05e21b360542"
+        },
+        {
+            "type": "folder",
+            "name": "jstools"
+        },
+        {
+            "type": "file",
+            "name": "manage.py",
+            "size": 663,
+            "hash": "78c9f1652893319c55afa597f137c2b94c8968567fa3c06ee28693cd01833d62"
+        },
+        {
+            "type": "folder",
+            "name": "regulatory_overview"
+        },
+        {
+            "type": "file",
+            "name": "requirements.txt",
+            "size": 128,
+            "hash": "50b953adc6a435189462c2ea0f79d89006b3fdaa21126fc913f3b46e768125ee"
+        },
+        {
+            "type": "folder",
+            "name": "static"
+        },
+        {
+            "type": "folder",
+            "name": "templates"
+        },
+        {
+            "type": "file",
+            "name": "acedata/__init__.py",
+            "size": 0,
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+            "type": "folder",
+            "name": "acedata/__pycache__"
+        },
+        {
+            "type": "file",
+            "name": "acedata/asgi.py",
+            "size": 391,
+            "hash": "45de7c0a91ea4e0acbdbc5d7b640ca8acfb3c2331c332d7d668c938d0478037a"
+        },
+        {
+            "type": "file",
+            "name": "acedata/settings.py",
+            "size": 3955,
+            "hash": "29e026f6c3801c202c39e123c052afc772f20ebc91b5add2522a04dfc9cc5ee1"
+        },
+        {
+            "type": "file",
+            "name": "acedata/urls.py",
+            "size": 1067,
+            "hash": "904edc4014a8162b7b8fd2df0a259b1b5b4d1047f6814b7e639709bb0f1f8a0f"
+        },
+        {
+            "type": "file",
+            "name": "acedata/wsgi.py",
+            "size": 391,
+            "hash": "0879ee88927062fabdea1fea5294ec79054a6e0bf443b3493642c145dd51fb20"
+        },
+        {
+            "type": "file",
+            "name": "data/__init__.py",
+            "size": 0,
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+            "type": "folder",
+            "name": "data/__pycache__"
+        },
+        {
+            "type": "folder",
+            "name": "data/acedata"
+        },
+        {
+            "type": "file",
+            "name": "data/admin.py",
+            "size": 878,
+            "hash": "df4f3dfa8c47da709b409e9df56d3357ebf26445620977d32307b64e81473c4e"
+        },
+        {
+            "type": "file",
+            "name": "data/context_processor.py",
+            "size": 129,
+            "hash": "3ed4b675e3478ed27892fc651b03af5d6214af661bd4dcd39d68467afd54cb0c"
+        },
+        {
+            "type": "file",
+            "name": "data/apps.py",
+            "size": 141,
+            "hash": "b86d649b3992d4413fe6af536770b70b83e8d2cd7d7f33aeaecd187cf0f33801"
+        },
+        {
+            "type": "folder",
+            "name": "data/migrations"
+        },
+        {
+            "type": "file",
+            "name": "data/models.py",
+            "size": 2001,
+            "hash": "e675c199f6e88bde80efbd31fd7f22e4244ec8745049f0f83524ee94b78b52f9"
+        },
+        {
+            "type": "file",
+            "name": "data/signals.py",
+            "size": 1538,
+            "hash": "f730e23d5f86bdd339d7e9670bb9d303fb58b02bfd300f7fdd8dcf619b9a1445"
+        },
+        {
+            "type": "folder",
+            "name": "data/static"
+        },
+        {
+            "type": "file",
+            "name": "data/tests.py",
+            "size": 60,
+            "hash": "9ab6c6191360e63c1b4c9b5659aef348a743c9e078be68190917369e4e9563e8"
+        },
+        {
+            "type": "file",
+            "name": "data/urls.py",
+            "size": 421,
+            "hash": "33cd54b60e2c691cce20975e965bed6e012490c9cf11a44d90467bae6f82cd03"
+        },
+        {
+            "type": "file",
+            "name": "data/views.py",
+            "size": 2512,
+            "hash": "4b0228b5e182a4ad3c2d81eb15592f64d4dffe8ad8cbbc433074d56a42755230"
+        },
+        {
+            "type": "file",
+            "name": "jstools/package-lock.json",
+            "size": 26897,
+            "hash": "5eb899c7a29c7ba8a13520049615d09f4a6def48aa5cf22a115613162fb9037b"
+        },
+        {
+            "type": "file",
+            "name": "jstools/package.json",
+            "size": 530,
+            "hash": "56ab2b7970a6466057032d53f70ab4713875bb6f3148d41871c2b67c8896d3c0"
+        },
+        {
+            "type": "file",
+            "name": "jstools/postcss.config.js",
+            "size": 82,
+            "hash": "251ecddd4672c9cf467547e3dc535de00ad2129df26e7e7ae728fa4e5ac45fc5"
+        },
+        {
+            "type": "file",
+            "name": "jstools/tailwind.config.js",
+            "size": 523,
+            "hash": "1dfebe8e5b58fef78ea097a7c1602baf00593871e35d6408b8ae604f5132d6b8"
+        },
+        {
+            "type": "file",
+            "name": "regulatory_overview/__init__.py",
+            "size": 0,
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+            "type": "folder",
+            "name": "regulatory_overview/__pycache__"
+        },
+        {
+            "type": "file",
+            "name": "regulatory_overview/admin.py",
+            "size": 219,
+            "hash": "7bf2bbaa0db3a65f634b4af136133ea4f87aff1c8b041da055c76365bf183d6d"
+        },
+        {
+            "type": "file",
+            "name": "regulatory_overview/apps.py",
+            "size": 169,
+            "hash": "d3ca001f8643143ed214c7e4b289c3745fc57b787ded1189f6c20f113f1709e4"
+        },
+        {
+            "type": "folder",
+            "name": "regulatory_overview/migrations"
+        },
+        {
+            "type": "file",
+            "name": "regulatory_overview/models.py",
+            "size": 1867,
+            "hash": "47cfba2c32b4d271e603fabd7d758f9d55a43ccf2dcda3c9ea0117242e92fe6d"
+        },
+        {
+            "type": "file",
+            "name": "regulatory_overview/tests.py",
+            "size": 60,
+            "hash": "9ab6c6191360e63c1b4c9b5659aef348a743c9e078be68190917369e4e9563e8"
+        },
+        {
+            "type": "file",
+            "name": "regulatory_overview/urls.py",
+            "size": 494,
+            "hash": "dee12e96a4a384f90bfb0feef34d145349c983d8e2def84b9d3c3c233a93af8f"
+        },
+        {
+            "type": "file",
+            "name": "regulatory_overview/views.py",
+            "size": 2036,
+            "hash": "41fed21d8e9b44602e6d8c3fd03a1fac3684878d3a4cdee3eb4e5b03cef6f289"
+        },
+        {
+            "type": "folder",
+            "name": "static/admin"
+        },
+        {
+            "type": "folder",
+            "name": "static/css"
+        },
+        {
+            "type": "folder",
+            "name": "static/images"
+        },
+        {
+            "type": "file",
+            "name": "templates/.DS_Store",
+            "size": 6148,
+            "hash": "cc4588ca70a12fd68f0e6ef469222346c2b17dd9b694fed2d91d55f4a787a1a2"
+        },
+        {
+            "type": "folder",
+            "name": "templates/datapage"
+        },
+        {
+            "type": "folder",
+            "name": "templates/global"
+        },
+        {
+            "type": "file",
+            "name": "acedata/__pycache__/__init__.cpython-310.pyc",
+            "size": 157,
+            "hash": "eadbc1c75ffadf82efd8961df76e160983050cd9ed636bee336da4042cbee05a"
+        },
+        {
+            "type": "file",
+            "name": "acedata/__pycache__/__init__.cpython-39.pyc",
+            "size": 155,
+            "hash": "0cde52807293fbcbd8d40bd4703c3a04ef14011f60c878ba492d8c8397ec372d"
+        },
+        {
+            "type": "file",
+            "name": "acedata/__pycache__/settings.cpython-310.pyc",
+            "size": 2656,
+            "hash": "30604ed4dd1c545ca117110947476b22ff3e7dabde898c0336d419f78270b8b8"
+        },
+        {
+            "type": "file",
+            "name": "acedata/__pycache__/settings.cpython-39.pyc",
+            "size": 2428,
+            "hash": "0f408efc1e78fb3c78d0c71d6b9fdfe36bcb17e33e4fe7c4938d56c284ed513e"
+        },
+        {
+            "type": "file",
+            "name": "acedata/__pycache__/urls.cpython-310.pyc",
+            "size": 1249,
+            "hash": "907277d99b8b9caca112470356431fee3c0cc10599c18b109645a65bf91f3c77"
+        },
+        {
+            "type": "file",
+            "name": "acedata/__pycache__/urls.cpython-39.pyc",
+            "size": 1152,
+            "hash": "134fb5ae06e4eaf4a23e95cfa6005969332d7bee7e8bb7a769ae8e8f4636e9f1"
+        },
+        {
+            "type": "file",
+            "name": "acedata/__pycache__/wsgi.cpython-310.pyc",
+            "size": 559,
+            "hash": "ee1558e23d3ddc5b34b2bfcf0e0fa09276bdf6e4458405a526e40b5d34f341af"
+        },
+        {
+            "type": "file",
+            "name": "acedata/__pycache__/wsgi.cpython-39.pyc",
+            "size": 558,
+            "hash": "cabcc4790f2922fff07e373d9c4494ecaf05028ab03f20529e28a817e2dbcc87"
+        },
+        {
+            "type": "file",
+            "name": "data/__pycache__/__init__.cpython-310.pyc",
+            "size": 154,
+            "hash": "4659727e7959cd9154a59dd19ea7bbbfc13f0e0b116f9848d8494ce3ce44ff22"
+        },
+        {
+            "type": "file",
+            "name": "data/__pycache__/__init__.cpython-39.pyc",
+            "size": 152,
+            "hash": "7c2c425a91919aa175002efb911c0132dab33ab5e57db48ef412c9afdab84b7d"
+        },
+        {
+            "type": "file",
+            "name": "data/__pycache__/admin.cpython-310.pyc",
+            "size": 1245,
+            "hash": "53c8b0cf47249cb311239772a299b5bc3c9875c503002782d9adfd91b254b5e1"
+        },
+        {
+            "type": "file",
+            "name": "data/__pycache__/admin.cpython-39.pyc",
+            "size": 850,
+            "hash": "27b4a14aab618c1e64c710ece3fce52e483e0e7d01792352f4a319b0170a33d3"
+        },
+        {
+            "type": "file",
+            "name": "data/__pycache__/apps.cpython-310.pyc",
+            "size": 516,
+            "hash": "eb514ebf9773d099717d9983a6a1258b6174f766fde2650472ccc6b337d260a6"
+        },
+        {
+            "type": "file",
+            "name": "data/__pycache__/apps.cpython-39.pyc",
+            "size": 368,
+            "hash": "e941c6ae5d8a5ef2c2cdb6ebea0156a82c11ecebcdab8bba8446ef410bb7b8f7"
+        },
+        {
+            "type": "file",
+            "name": "data/__pycache__/context_processor.cpython-310.pyc",
+            "size": 361,
+            "hash": "27f96604b6892fbb7400279eab2d1e6a5e07d14764cfbb428f1d7b15d7fa9169"
+        },
+        {
+            "type": "file",
+            "name": "data/__pycache__/models.cpython-310.pyc",
+            "size": 2549,
+            "hash": "69478ad154d759ea44a0812595d7f9aa66dfb24ab7e2e2438f43af65f0940417"
+        },
+        {
+            "type": "file",
+            "name": "data/__pycache__/models.cpython-39.pyc",
+            "size": 2036,
+            "hash": "ebb5d37511fcafe51fc3a23eef5699ad0b6d48df13dd4b66cf09a7589384b638"
+        },
+        {
+            "type": "file",
+            "name": "data/__pycache__/signals.cpython-310.pyc",
+            "size": 1705,
+            "hash": "67ca03b1ab8bbfe92ff2da7d5906d48777f79c32f96410e49263090e04a5ae1a"
+        },
+        {
+            "type": "file",
+            "name": "data/__pycache__/urls.cpython-310.pyc",
+            "size": 563,
+            "hash": "cfd77f87be1728ddf0354f2d431732ce70c798aea76daf1fd5f35a65bb4bb5c2"
+        },
+        {
+            "type": "file",
+            "name": "data/__pycache__/urls.cpython-39.pyc",
+            "size": 353,
+            "hash": "4c22ed29ea8a8bf7a95b984a7b07bdc1831de12a5c1d5bf7c149b04705b34c70"
+        },
+        {
+            "type": "file",
+            "name": "data/__pycache__/views.cpython-310.pyc",
+            "size": 2569,
+            "hash": "ad4b4d7d08e0f1bdb6d7b3bcb51fb5aafe1f5bf6fd7f274108f21717ddb59995"
+        },
+        {
+            "type": "file",
+            "name": "data/__pycache__/views.cpython-39.pyc",
+            "size": 934,
+            "hash": "ffccc90719942e9c4c10fc0d2766ef95d589a060c3249e4e72518a466632af69"
+        },
+        {
+            "type": "file",
+            "name": "data/acedata/__init__.py",
+            "size": 0,
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+            "type": "folder",
+            "name": "data/acedata/__pycache__"
+        },
+        {
+            "type": "file",
+            "name": "data/acedata/asgi.py",
+            "size": 391,
+            "hash": "45de7c0a91ea4e0acbdbc5d7b640ca8acfb3c2331c332d7d668c938d0478037a"
+        },
+        {
+            "type": "file",
+            "name": "data/acedata/settings.py",
+            "size": 3341,
+            "hash": "cf41b17468861d139cd0f490b4ffec756538814554c82cf1c54bddd10d70ed06"
+        },
+        {
+            "type": "file",
+            "name": "data/acedata/urls.py",
+            "size": 971,
+            "hash": "e6f9cd7d6ea88959ce03298b097cd634637cb5e60dfd5e32bd19208b22c7e143"
+        },
+        {
+            "type": "file",
+            "name": "data/acedata/wsgi.py",
+            "size": 391,
+            "hash": "0879ee88927062fabdea1fea5294ec79054a6e0bf443b3493642c145dd51fb20"
+        },
+        {
+            "type": "file",
+            "name": "data/migrations/0001_initial.py",
+            "size": 1410,
+            "hash": "e32135c951b01380b2c3406f5a0a21ae621a8fae1212ab3e7bfff635c10c9b76"
+        },
+        {
+            "type": "file",
+            "name": "data/migrations/0002_data_csv_file_data_excel_file_data_pdf_file.py",
+            "size": 753,
+            "hash": "74eeac6a0e8d5db285b2f9164d6ebf0be8305c60f9e02cacd9671fab88e43614"
+        },
+        {
+            "type": "file",
+            "name": "data/migrations/0003_auto_20220813_2019.py",
+            "size": 1545,
+            "hash": "723d6964f363112d809b5ef7bebfb8742b5cdc2471e5630028008d91e0573738"
+        },
+        {
+            "type": "file",
+            "name": "data/migrations/0004_auto_20220813_2022.py",
+            "size": 517,
+            "hash": "f88f3b64d1771b26bd85b3b075fdab62a6a387bc96ac4e09bf4c6c4501fc272f"
+        },
+        {
+            "type": "file",
+            "name": "data/migrations/0005_auto_20220813_2023.py",
+            "size": 521,
+            "hash": "c78e89a2e3fc486090d41f50d4bb907b716df8df33bc8d8ec66f0d18aa38d0d3"
+        },
+        {
+            "type": "file",
+            "name": "data/migrations/0006_auto_20220813_2033.py",
+            "size": 696,
+            "hash": "01e36af5477f01a03a4f129bda550dad84ffbb0912b5f5f9d41e49f238e89572"
+        },
+        {
+            "type": "file",
+            "name": "data/migrations/0007_indicator_banner_img.py",
+            "size": 416,
+            "hash": "94162ba6a11366caee6734714eda3cd98c6e95be87b3f6919b15da0562d3124d"
+        },
+        {
+            "type": "file",
+            "name": "data/migrations/0008_acedata_data.py",
+            "size": 411,
+            "hash": "5c022c7efb5843333a58c79557de85ea8c1ce3f7420279d95f1bef01f0671074"
+        },
+        {
+            "type": "file",
+            "name": "data/migrations/0009_acedata_data_numbers_acedata_years_list.py",
+            "size": 576,
+            "hash": "f68b09fbe5f0076a621425756e6e965d519b99057e75105e177e86d6e15fc585"
+        },
+        {
+            "type": "file",
+            "name": "data/migrations/0010_acedata_keywords.py",
+            "size": 423,
+            "hash": "69206ef0365b4a18330cd5719abcd79928bcd1b6c9de95fecabddd17d6af76ae"
+        },
+        {
+            "type": "file",
+            "name": "data/migrations/0011_alter_indicator_banner_img.py",
+            "size": 416,
+            "hash": "713a150ca151a123c6cf77fdc10cfd3304869ff832140872093a1c83b7b07da0"
+        },
+        {
+            "type": "file",
+            "name": "data/migrations/0012_acedata_slug.py",
+            "size": 406,
+            "hash": "43d411817879380e2c5bb1a44f29d1da0e30a7c87a7dab63a86276ffb4397351"
+        },
+        {
+            "type": "file",
+            "name": "data/migrations/0013_acedata_data_excel.py",
+            "size": 409,
+            "hash": "e7f859e0124adca24836c85e7e5c2d97efd6cbff02ada95ac6cdb49a67780215"
+        },
+        {
+            "type": "file",
+            "name": "data/migrations/__init__.py",
+            "size": 0,
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+            "type": "folder",
+            "name": "data/migrations/__pycache__"
+        },
+        {
+            "type": "file",
+            "name": "data/static/.DS_Store",
+            "size": 6148,
+            "hash": "454e723b0f9494cf26393cdab2a8658620d99eb887c97abbb5da3a5328e972d5"
+        },
+        {
+            "type": "folder",
+            "name": "data/static/css"
+        },
+        {
+            "type": "folder",
+            "name": "data/static/images"
+        },
+        {
+            "type": "file",
+            "name": "regulatory_overview/__pycache__/__init__.cpython-310.pyc",
+            "size": 168,
+            "hash": "900b6bc6b77026ade438362bfb5f7a9b4c867d49bb0f298c24369f95d61c52e2"
+        },
+        {
+            "type": "file",
+            "name": "regulatory_overview/__pycache__/admin.cpython-310.pyc",
+            "size": 395,
+            "hash": "06a30aa3395a7bea6c698e1f7bcfd2cf8ed307bc1ac73b230f0171f687b3d1f1"
+        },
+        {
+            "type": "file",
+            "name": "regulatory_overview/__pycache__/apps.cpython-310.pyc",
+            "size": 472,
+            "hash": "a850b3c5e91be60938c2d6a4854cdb15d2157bae5589ed988d45b07ed1403383"
+        },
+        {
+            "type": "file",
+            "name": "regulatory_overview/__pycache__/models.cpython-310.pyc",
+            "size": 2667,
+            "hash": "20ab0f559c5a4430901181cbcc28a82a8becee8d8a902af6ee0bd0a6dd024455"
+        },
+        {
+            "type": "file",
+            "name": "regulatory_overview/__pycache__/urls.cpython-310.pyc",
+            "size": 593,
+            "hash": "f0fb8ce980208d2acf42eb25ff330d9476b3b9194282fae18c2ec4945a8f9646"
+        },
+        {
+            "type": "file",
+            "name": "regulatory_overview/__pycache__/views.cpython-310.pyc",
+            "size": 1703,
+            "hash": "d667919998e79ee152ec3e7eea16848f20b0acf6463959cb6d761b7dd9dab961"
+        },
+        {
+            "type": "file",
+            "name": "regulatory_overview/migrations/0001_initial.py",
+            "size": 1389,
+            "hash": "3dfcc18a24ff11e3f549eabe3277c822950cf63872611536c903deb12f83c7c6"
+        },
+        {
+            "type": "file",
+            "name": "regulatory_overview/migrations/__init__.py",
+            "size": 0,
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+            "type": "folder",
+            "name": "regulatory_overview/migrations/__pycache__"
+        },
+        {
+            "type": "folder",
+            "name": "static/admin/css"
+        },
+        {
+            "type": "folder",
+            "name": "static/admin/fonts"
+        },
+        {
+            "type": "folder",
+            "name": "static/admin/img"
+        },
+        {
+            "type": "folder",
+            "name": "static/admin/js"
+        },
+        {
+            "type": "file",
+            "name": "static/css/main.css",
+            "size": 189,
+            "hash": "12ff428860b907200d377bfb1269a9c438ff6bc1971fb5cd7ff768c82cb5bbc4"
+        },
+        {
+            "type": "file",
+            "name": "static/css/style.css",
+            "size": 23725,
+            "hash": "e96b1170304ba38bff9f04672cd4a9ee827b646233fd4b3e0d2d57c9f3380ece"
+        },
+        {
+            "type": "file",
+            "name": "static/css/style.min.css",
+            "size": 9263,
+            "hash": "a17b5be736501626f3d5e78fa10ca76340ad2dc44c63242a76bff9d621ae7061"
+        },
+        {
+            "type": "file",
+            "name": "static/css/tailwind.css",
+            "size": 584,
+            "hash": "1cb4da73fe8c57afb7cf25bf5545f0eba8561fe54a1e3323a027cb7a4ae3bae2"
+        },
+        {
+            "type": "file",
+            "name": "static/images/ace_logo.png",
+            "size": 37260,
+            "hash": "c49d23815acb4e436ffda7aeca7c926609a8ac13de463bee09fb0c1b845b5981"
+        },
+        {
+            "type": "file",
+            "name": "static/images/social_indicator.jpg",
+            "size": 2380898,
+            "hash": "be47e2cf1c6402f7c5c3f9fe704c28c534b0beae3205d80e87be336f112f7125"
+        },
+        {
+            "type": "file",
+            "name": "templates/datapage/404.html",
+            "size": 21052,
+            "hash": "12c17aa806d24d4f61a43026d3ff27eab66660dc5ff34b45b9b717960f8cf04e"
+        },
+        {
+            "type": "file",
+            "name": "templates/datapage/graph_page.html",
+            "size": 5371,
+            "hash": "36a25141e8ad64cb655db0a507e02bd704884d5d958c9ad9629fecafbcce0071"
+        },
+        {
+            "type": "file",
+            "name": "templates/datapage/home.html",
+            "size": 225183,
+            "hash": "3e6feb58e19d80a8662c438d9ab38870043363fd87c3d3b0a79dd1a39abc1570"
+        },
+        {
+            "type": "file",
+            "name": "templates/datapage/indicator_list_page.html",
+            "size": 1256,
+            "hash": "098061fa6def17e053929741d934b29451576edcfae386989f41027e40253d31"
+        },
+        {
+            "type": "file",
+            "name": "templates/datapage/list_page.html",
+            "size": 3120,
+            "hash": "57d88efe0550dfcf9fedab9fa7753e9c40c9a1870ab6c49d79e42d0b0da76a0d"
+        },
+        {
+            "type": "file",
+            "name": "templates/datapage/m.html",
+            "size": 0,
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+            "type": "file",
+            "name": "templates/datapage/search.html",
+            "size": 14605,
+            "hash": "2bf070ace40d6b802df38308029980ce792f70e75eb6cdef8553691bf763273b"
+        },
+        {
+            "type": "file",
+            "name": "templates/datapage/under_construction.html",
+            "size": 33585,
+            "hash": "54056ada874517468f2dafc0035c82f0bace8fdde02e27658bd599c35215ec52"
+        },
+        {
+            "type": "file",
+            "name": "templates/global/base.html",
+            "size": 22812,
+            "hash": "4cc2400b2819fc58eb84929c4a0c8e4b582802680fdb5f189c5a392f30bb0cff"
+        },
+        {
+            "type": "file",
+            "name": "data/acedata/__pycache__/__init__.cpython-39.pyc",
+            "size": 155,
+            "hash": "0cde52807293fbcbd8d40bd4703c3a04ef14011f60c878ba492d8c8397ec372d"
+        },
+        {
+            "type": "file",
+            "name": "data/acedata/__pycache__/settings.cpython-39.pyc",
+            "size": 2428,
+            "hash": "0f408efc1e78fb3c78d0c71d6b9fdfe36bcb17e33e4fe7c4938d56c284ed513e"
+        },
+        {
+            "type": "file",
+            "name": "data/acedata/__pycache__/urls.cpython-39.pyc",
+            "size": 1152,
+            "hash": "134fb5ae06e4eaf4a23e95cfa6005969332d7bee7e8bb7a769ae8e8f4636e9f1"
+        },
+        {
+            "type": "file",
+            "name": "data/acedata/__pycache__/wsgi.cpython-39.pyc",
+            "size": 558,
+            "hash": "cabcc4790f2922fff07e373d9c4494ecaf05028ab03f20529e28a817e2dbcc87"
+        },
+        {
+            "type": "file",
+            "name": "data/migrations/__pycache__/0001_initial.cpython-310.pyc",
+            "size": 1107,
+            "hash": "d2af8e3b66901168a9f848dd8ed611718b4dea908641366902cc66e1e0872e95"
+        },
+        {
+            "type": "file",
+            "name": "data/migrations/__pycache__/0001_initial.cpython-39.pyc",
+            "size": 1104,
+            "hash": "ce63498dbeaf7624fcfa3c2553c0d2057b8daabab053e2190f347206de45b2c0"
+        },
+        {
+            "type": "file",
+            "name": "data/migrations/__pycache__/0002_data_csv_file_data_excel_file_data_pdf_file.cpython-310.pyc",
+            "size": 726,
+            "hash": "ef65196aae3680baa3834cca726bffe31044f94437e2e1b3785d87b20e5a0ee7"
+        },
+        {
+            "type": "file",
+            "name": "data/migrations/__pycache__/0002_data_csv_file_data_excel_file_data_pdf_file.cpython-39.pyc",
+            "size": 723,
+            "hash": "f121be2e940e6fb1de98f90d8aa21fcf7dc54b0ed680d67e83257ca1b25ba28e"
+        },
+        {
+            "type": "file",
+            "name": "data/migrations/__pycache__/0003_auto_20220813_2019.cpython-310.pyc",
+            "size": 1403,
+            "hash": "988791b3d7be9b910a183c0b83adaf27d764eef51348532649fe06a057521aa2"
+        },
+        {
+            "type": "file",
+            "name": "data/migrations/__pycache__/0003_auto_20220813_2019.cpython-39.pyc",
+            "size": 1400,
+            "hash": "28b3f65c5582717cb327eb138167a81a72682d66d8bdfdb08794898290765800"
+        },
+        {
+            "type": "file",
+            "name": "data/migrations/__pycache__/0004_auto_20220813_2022.cpython-310.pyc",
+            "size": 726,
+            "hash": "0b3162209207d85581fe1b53873c9242962c5c9312e54c595ec69330ad5ffe47"
+        },
+        {
+            "type": "file",
+            "name": "data/migrations/__pycache__/0004_auto_20220813_2022.cpython-39.pyc",
+            "size": 723,
+            "hash": "2ec689daf3be939168fd4204e0de23c66ac7a4862f9e4cc41c1cabcdad87d9f4"
+        },
+        {
+            "type": "file",
+            "name": "data/migrations/__pycache__/0005_auto_20220813_2023.cpython-310.pyc",
+            "size": 730,
+            "hash": "e6e874c25a42fbd9ebbb5962c1ec0765d5cb82a60d9f29925ef0b06058ef8841"
+        },
+        {
+            "type": "file",
+            "name": "data/migrations/__pycache__/0005_auto_20220813_2023.cpython-39.pyc",
+            "size": 727,
+            "hash": "dbabb9420af01308c077367b8c59c0a33dfbaf3d52b8a0d937e4d7f8b686ea18"
+        },
+        {
+            "type": "file",
+            "name": "data/migrations/__pycache__/0006_auto_20220813_2033.cpython-310.pyc",
+            "size": 805,
+            "hash": "286899c935dd68fb16d560e99b9d37079f0db72f613067e07d0440a304fc785d"
+        },
+        {
+            "type": "file",
+            "name": "data/migrations/__pycache__/0006_auto_20220813_2033.cpython-39.pyc",
+            "size": 802,
+            "hash": "90d52fe1599547810e09ee83330d06a51e56b1f6a80ad88813608b872e5aa0e1"
+        },
+        {
+            "type": "file",
+            "name": "data/migrations/__pycache__/0007_indicator_banner_img.cpython-310.pyc",
+            "size": 631,
+            "hash": "371eaab9399acd769dba4721fa4ce1233e7a4a29469c755e14dcd01a4c802111"
+        },
+        {
+            "type": "file",
+            "name": "data/migrations/__pycache__/0007_indicator_banner_img.cpython-39.pyc",
+            "size": 628,
+            "hash": "56b8b8f4996219e2c886ce11216a42ef853f0f88800aa27584c8e42b064dfacd"
+        },
+        {
+            "type": "file",
+            "name": "data/migrations/__pycache__/0008_acedata_data.cpython-310.pyc",
+            "size": 617,
+            "hash": "34acda9bb5cfefac977bfe88c63c7bbe780fdb8ca3a730513b3d69a96ae3efad"
+        },
+        {
+            "type": "file",
+            "name": "data/migrations/__pycache__/0009_acedata_data_numbers_acedata_years_list.cpython-310.pyc",
+            "size": 682,
+            "hash": "881805ef41c5780f225a41fa7b9d8d5ab22362e1ee937c6b452a12c252900e0e"
+        },
+        {
+            "type": "file",
+            "name": "data/migrations/__pycache__/0010_acedata_keywords.cpython-310.pyc",
+            "size": 634,
+            "hash": "aa7e6391eaec385d9d9119d07a8704fab31baeb706b1d5dde9ad7a5ebf044f9f"
+        },
+        {
+            "type": "file",
+            "name": "data/migrations/__pycache__/0011_alter_indicator_banner_img.cpython-310.pyc",
+            "size": 641,
+            "hash": "56b6ad2f811290acc0cc1ac9f9abc518828b034e723c6a636348cb0dfd87ff0f"
+        },
+        {
+            "type": "file",
+            "name": "data/migrations/__pycache__/0012_acedata_slug.cpython-310.pyc",
+            "size": 613,
+            "hash": "aeed64bd50dec2daf9107b4da20b4fe898979c85d9ffafc9e5062fbf02b47813"
+        },
+        {
+            "type": "file",
+            "name": "data/migrations/__pycache__/0013_acedata_data_excel.cpython-310.pyc",
+            "size": 622,
+            "hash": "fc7f0f8a2d20a2f263a69a5820afb41f3c2255034afd229deeba7f7b893d365e"
+        },
+        {
+            "type": "file",
+            "name": "data/migrations/__pycache__/__init__.cpython-310.pyc",
+            "size": 164,
+            "hash": "ea58e4f9502bf9fbc85c5e79e649072c352386fe9628f414941c87467b6c0edc"
+        },
+        {
+            "type": "file",
+            "name": "data/migrations/__pycache__/__init__.cpython-39.pyc",
+            "size": 163,
+            "hash": "4d40f31f7db042a6c38bacc4dda9ff0d17e62fdc423642d82838bfa623b2b89f"
+        },
+        {
+            "type": "file",
+            "name": "data/static/css/main.css",
+            "size": 189,
+            "hash": "12ff428860b907200d377bfb1269a9c438ff6bc1971fb5cd7ff768c82cb5bbc4"
+        },
+        {
+            "type": "file",
+            "name": "data/static/css/style.css",
+            "size": 23842,
+            "hash": "44ff6a581a6282c95f543679ee9621dce124ebe4a81400b89a3970ccbee8b250"
+        },
+        {
+            "type": "file",
+            "name": "data/static/css/style.min.css",
+            "size": 9263,
+            "hash": "a17b5be736501626f3d5e78fa10ca76340ad2dc44c63242a76bff9d621ae7061"
+        },
+        {
+            "type": "file",
+            "name": "data/static/css/tailwind.css",
+            "size": 584,
+            "hash": "1cb4da73fe8c57afb7cf25bf5545f0eba8561fe54a1e3323a027cb7a4ae3bae2"
+        },
+        {
+            "type": "file",
+            "name": "data/static/images/.DS_Store",
+            "size": 6148,
+            "hash": "de6157f252f60c0343a026f05d9f0462978b4f1c878f5d0e59257ebd0046ce50"
+        },
+        {
+            "type": "file",
+            "name": "data/static/images/ace_logo.png",
+            "size": 37260,
+            "hash": "c49d23815acb4e436ffda7aeca7c926609a8ac13de463bee09fb0c1b845b5981"
+        },
+        {
+            "type": "file",
+            "name": "data/static/images/social_indicator.jpg",
+            "size": 2380898,
+            "hash": "be47e2cf1c6402f7c5c3f9fe704c28c534b0beae3205d80e87be336f112f7125"
+        },
+        {
+            "type": "file",
+            "name": "regulatory_overview/migrations/__pycache__/0001_initial.cpython-310.pyc",
+            "size": 1087,
+            "hash": "c4554cb920e4bc723ad0dfc70e5a946524e81e84638436ce6c6c0cb01513923f"
+        },
+        {
+            "type": "file",
+            "name": "regulatory_overview/migrations/__pycache__/__init__.cpython-310.pyc",
+            "size": 179,
+            "hash": "64bdb05caf6ec7d0bb627b7b862a4b1c637d9f7e2f845690bb2af0c85a6d2bb7"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/css/base.css",
+            "size": 20344,
+            "hash": "0f30cc50bd40fe5025f2c5fb6677ef751a3c04dd96ae68cb3ffe84bbc977bd4f"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/css/changelists.css",
+            "size": 6395,
+            "hash": "dd03e58f259f4896cb6db9cf0bd1c1b6d81699d46592950f799bc3b5740a2372"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/css/autocomplete.css",
+            "size": 9114,
+            "hash": "ebe7dc41da8296919ff04a47d4dc604bc60bf9d8865dcf0216add2c3623d2bc9"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/css/dark_mode.css",
+            "size": 796,
+            "hash": "10d154fd5559a2316ef49c11600d2e1a2cbbf82646b004c156716d4f0212926d"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/css/dashboard.css",
+            "size": 380,
+            "hash": "8b639c0d36b547f6cee9a05367aebe6919535e5d25e2c8de1df6ac52b7f38ddd"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/css/fonts.css",
+            "size": 423,
+            "hash": "4a7065dca8de519a91999c3717488d9b5629a85863acd0bf7cd3741f64e4b987"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/css/forms.css",
+            "size": 8944,
+            "hash": "83a192925f7479f2b383d6112061933dcf86fbe8c75e9072bb80b9bbe92d81b1"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/css/login.css",
+            "size": 958,
+            "hash": "05d02447ef9cc5de476570cd3c89efd9082cfdcdf4e6c3db3c272d9149009835"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/css/nav_sidebar.css",
+            "size": 2619,
+            "hash": "171409493455f317c3df32ee54a11075a072b417c0d330525dfa406e9bb6f3a2"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/css/responsive.css",
+            "size": 18854,
+            "hash": "27bbd6f4aefbafdf44dd324f0ef17c22279f94e31454ccbbb574463b64fb8ccc"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/css/responsive_rtl.css",
+            "size": 1741,
+            "hash": "88cf0521f5cbb9782eae360ad09c1ba15ba2954835867699c3bc1ade1c7c688d"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/css/rtl.css",
+            "size": 3598,
+            "hash": "b5d00793f8594c293a374fff32e38cd8c44e6cc4f5ba418616c309cc461569a7"
+        },
+        {
+            "type": "folder",
+            "name": "static/admin/css/vendor"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/css/widgets.css",
+            "size": 11297,
+            "hash": "9c1619e217c09b94590d6d4123e2287aa6f761f709a53cb5d52d587b55d80f60"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/fonts/LICENSE.txt",
+            "size": 11560,
+            "hash": "3ddf9be5c28fe27dad143a5dc76eea25222ad1dd68934a047064e56ed2fa40c5"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/fonts/README.txt",
+            "size": 214,
+            "hash": "138aef97d63d72f2b1db0a64ae04198e168a7d1844506f2934b0a866806afab1"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/fonts/Roboto-Bold-webfont.woff",
+            "size": 86184,
+            "hash": "b1767a0c3e5dfb3a5009efee4445ff15d6362e9285461e17bded186f1e9456f0"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/fonts/Roboto-Light-webfont.woff",
+            "size": 85692,
+            "hash": "18827349c7febd4b8d01aa907c67ea9b8011242078326b24703978454fdf351a"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/fonts/Roboto-Regular-webfont.woff",
+            "size": 85876,
+            "hash": "9ae9d6545d7d7d823f8a94010db77c1a0ff71e371e8bb158df1cb98395162507"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/img/LICENSE",
+            "size": 1081,
+            "hash": "d114faff3488c16c319b3235dc41f90239d3d63d9853733033d8f7535f5c0004"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/img/README.txt",
+            "size": 319,
+            "hash": "5ea3793254f54888bab1d9d89ca26b3a227a87d95321e8d3ee72d263e63be299"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/img/calendar-icons.svg",
+            "size": 1094,
+            "hash": "81b32edba9dfc59a6196a285715397a5cbf9ce1bf9c7f426fcfe1b6b465ef382"
+        },
+        {
+            "type": "folder",
+            "name": "static/admin/img/gis"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/img/icon-addlink.svg",
+            "size": 331,
+            "hash": "901b4f249dea7903d678d7edbe9ad9891e75358699da7fd9c096ad63df99c754"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/img/icon-alert.svg",
+            "size": 504,
+            "hash": "697b5df4f03aead71c96cf9325fc84090ae6756ae3f11396282d2d24a6bbb700"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/img/icon-calendar.svg",
+            "size": 1086,
+            "hash": "fdb705edafd1f7852939f2dff91d29955a1b35479e4eda3d50c89420705c4876"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/img/icon-changelink.svg",
+            "size": 380,
+            "hash": "7253367b0f786f055adb143a6ef7cac7cc4bb64d22faee40c9b365c8ff24f943"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/img/icon-clock.svg",
+            "size": 677,
+            "hash": "939e58bfa47af93c92f2194bdcac9ed0830d8a180e4458e82631d8db5beda440"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/img/icon-deletelink.svg",
+            "size": 392,
+            "hash": "d3a5ce1e8e72e7d51f341b4ef233011d0aa65edf149a886548c96852e67a7740"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/img/icon-no.svg",
+            "size": 560,
+            "hash": "42a05a4ebae9dca8582712d807913ed1c9ffb3803f63c3c89987568df41233e7"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/img/icon-unknown-alt.svg",
+            "size": 655,
+            "hash": "2f22fda09b51d14e3d9061d828cc669a6d6f030deab1f5d1eeecd91fbeac67f8"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/img/icon-unknown.svg",
+            "size": 655,
+            "hash": "78f7179728bb7286ff21c24ea59ebaba2ca6c8580c3c797ca7d8849ff784ddf7"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/img/icon-viewlink.svg",
+            "size": 581,
+            "hash": "34bedf732ee640e43dd6c473c685512dfcd6cd7051539f5c14034eac63b058cd"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/img/icon-yes.svg",
+            "size": 436,
+            "hash": "fc7e09a8bcb027e371a0f2ea4aa93d68625cc44759c2d485b9ad53b88f6421c3"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/img/inline-delete.svg",
+            "size": 560,
+            "hash": "362d73f1e0d804ebde543aada1a1b210c586e4c767b7d7678a2b81593967af96"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/img/search.svg",
+            "size": 458,
+            "hash": "1e0bcb3cd4fb15f818be66edd40975ca15e09b3607ccc83c06e0cb9d4f6aa4c5"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/img/selector-icons.svg",
+            "size": 3291,
+            "hash": "d11272aee949fd447d6983fb59bbece6361ac815612e85d1dbacdac0d319d094"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/img/sorting-icons.svg",
+            "size": 1097,
+            "hash": "702bdca788b7300afe9a8f0b13f87c651bb72c3ecc6bd06da4afa9db83b79550"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/img/tooltag-add.svg",
+            "size": 331,
+            "hash": "7d3642a2e18c242e90ab6c65ab0fe1f5f168755b4b98332ba6665a7065496194"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/img/tooltag-arrowright.svg",
+            "size": 280,
+            "hash": "18802acbfe0ea2bf5c0cc342d9f49a10687ede0a9272fa9111a50b9e2c77c077"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/SelectBox.js",
+            "size": 4360,
+            "hash": "14b14216268ee0ace2c2e78bf37527fd6091d3e2dfeba3e156aa6f9db6ade74b"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/SelectFilter2.js",
+            "size": 11317,
+            "hash": "79cf79f44a4476988a1c3150b37b017b54f168e1eb066a5741e92c46141bd465"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/actions.js",
+            "size": 7872,
+            "hash": "f749ceea8efbe786b6c3c6cd64ead2ec4a04a21fcc6449c8389cc98e2d734e5f"
+        },
+        {
+            "type": "folder",
+            "name": "static/admin/js/admin"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/autocomplete.js",
+            "size": 1060,
+            "hash": "380a924e21d99d3599cc9284bce9be675b5d0252e33d65fd8caa589261f43b3a"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/calendar.js",
+            "size": 8466,
+            "hash": "bec62343836fe8b3e9a8c54c864a3c9a7b2fe94e445e493984e1e19a40b99bb8"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/cancel.js",
+            "size": 884,
+            "hash": "50465dbef5aee6ce191f5ea515fc5af143e05972778bc56c78ae4b730d8aade8"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/change_form.js",
+            "size": 1043,
+            "hash": "901a4278ff09d302df60826142da63abda9d7a52713478d02c75b35d0f9db47a"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/collapse.js",
+            "size": 1803,
+            "hash": "50e34152e787c2c9b948c946d147e9e2696a760bbb5068a653aa6c2b3a716ee1"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/core.js",
+            "size": 5698,
+            "hash": "0152c2aea6093a70ae2c92e8d23a9ed29c842b103fe2dcc9feb31c0d0135b33c"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/filters.js",
+            "size": 966,
+            "hash": "e1fe005ca9acc96516648a046d86841658986c57c464e0d5c984d446895ada73"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/inlines.js",
+            "size": 15526,
+            "hash": "c9607e292c3f699995669222b4a75eee29b28006b7e8b05daa805f07b953bc94"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/jquery.init.js",
+            "size": 347,
+            "hash": "b8cfca7fb10e04c8a97029ae4076f2b9b424c9c95e4960c24bcf9cdd67af156d"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/nav_sidebar.js",
+            "size": 3763,
+            "hash": "a4de80707ee5cb678dc70982dd0040266cee2075d617068ef46e9df0e6f3e25b"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/popup_response.js",
+            "size": 551,
+            "hash": "1f8a691b5e237ebc41d57179c59a79492f0f6a962e628bb91fbbb06231ddede2"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/prepopulate.js",
+            "size": 1531,
+            "hash": "518916ac734ad7e396a756b921665d834b9d7e8fdd711fa32929f9025c71aa05"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/prepopulate_init.js",
+            "size": 586,
+            "hash": "98920f0209fc4078e2feb4aa3ba58a35111ba640882c5ae344208e435fbd4a84"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/urlify.js",
+            "size": 7902,
+            "hash": "92cbb870377d26916c37970b4fc0693ad83426492b225591d72af79cb9565db2"
+        },
+        {
+            "type": "folder",
+            "name": "static/admin/js/vendor"
+        },
+        {
+            "type": "folder",
+            "name": "static/admin/css/vendor/select2"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/img/gis/move_vertex_off.svg",
+            "size": 1129,
+            "hash": "a2efa9a54372cb941908a15895caf3181c041224c35f99a626f33cae9c02e433"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/img/gis/move_vertex_on.svg",
+            "size": 1129,
+            "hash": "0e099c7b35839acff756182a8185069fe446147c927013f431e5fc3f01f2fe71"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/admin/DateTimeShortcuts.js",
+            "size": 19379,
+            "hash": "8fb0823050aec203162a469211ba4070c04e2f34eb51d638709e437195910939"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/admin/RelatedObjectLookups.js",
+            "size": 8919,
+            "hash": "6237ab95709e3523794fa8a5af8562884c50cdefdf4ba0932c698d02f769a850"
+        },
+        {
+            "type": "folder",
+            "name": "static/admin/js/vendor/jquery"
+        },
+        {
+            "type": "folder",
+            "name": "static/admin/js/vendor/select2"
+        },
+        {
+            "type": "folder",
+            "name": "static/admin/js/vendor/xregexp"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/css/vendor/select2/LICENSE-SELECT2.md",
+            "size": 1124,
+            "hash": "4ee0cbc51370afde358652a0f977972053729ed578b6a42f5e2a037d114f0b39"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/css/vendor/select2/select2.css",
+            "size": 17358,
+            "hash": "91a960439e4f7f2f580644fee3261877937c2286defa259e06eccfecb8d53b4a"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/css/vendor/select2/select2.min.css",
+            "size": 14966,
+            "hash": "15d6ad4dfdb43d0affad683e70029f97a8f8fc8637a28845009ee0542dccdf81"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/jquery/LICENSE.txt",
+            "size": 1097,
+            "hash": "d4db9ebe6f29f5168eac45ad713f055623ac5d0dcd5ba92da23d650ae012020d"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/jquery/jquery.js",
+            "size": 288580,
+            "hash": "1fe2bb5390a75e5d61e72c107cab528fc3c29a837d69aab7d200e1dbb5dcd239"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/jquery/jquery.min.js",
+            "size": 89501,
+            "hash": "ff1523fb7389539c84c65aba19260648793bb4f5e29329d2ee8804bc37a3fe6e"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/select2/LICENSE.md",
+            "size": 1124,
+            "hash": "4ee0cbc51370afde358652a0f977972053729ed578b6a42f5e2a037d114f0b39"
+        },
+        {
+            "type": "folder",
+            "name": "static/admin/js/vendor/select2/i18n"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/select2/select2.full.js",
+            "size": 173566,
+            "hash": "ba0664111e4e0041b30b0c1bff832f841284e46be67344b9f4c2a7f9da2865a2"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/select2/select2.full.min.js",
+            "size": 79212,
+            "hash": "5c6fdab80cb86a279695dccc226a1fac50e2c922bea70242edaa28f52b7bad2d"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/xregexp/LICENSE.txt",
+            "size": 1103,
+            "hash": "c6760b87818be101b84b51bf256c05fc0475f2b63d2a6af00f7931abb3d364dc"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/xregexp/xregexp.js",
+            "size": 232381,
+            "hash": "aedbdc5597b1e7351b410a410c4c0f5deb42dbc9c0124b2701b970d8596df6d0"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/xregexp/xregexp.min.js",
+            "size": 125266,
+            "hash": "7b68837c6e95d6c7c6501f768b9c8da906a6b0c09cf009f4485ce8a37bdbca58"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/select2/i18n/af.js",
+            "size": 866,
+            "hash": "229237ba8d7d7e8efb8ccb4de51de97a83f43ab88dfa741f3d8d89e1fb9f77c8"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/select2/i18n/ar.js",
+            "size": 905,
+            "hash": "cf1437a5e4a76d521fac7d4d763c780eb1c3b266e9aaeea67deca555614ce666"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/select2/i18n/az.js",
+            "size": 721,
+            "hash": "37f294edfb688dfd8782f2519693fc2aa1ba84a21baa28183772b4607fdcb6e4"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/select2/i18n/bg.js",
+            "size": 968,
+            "hash": "e59e889479ae93fe8875974056f7628179e58fb20e68a5ed723b88d27d059984"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/select2/i18n/bn.js",
+            "size": 1291,
+            "hash": "c1d41b81ac59e3b4f21a5c2fb28ec63a3a664d750a696cef554affa0245e9841"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/select2/i18n/bs.js",
+            "size": 965,
+            "hash": "839ea4592bbd471ca1feb6ab2d20daffc9eb76a2f9d49a996a2e10431db48f04"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/select2/i18n/ca.js",
+            "size": 900,
+            "hash": "0d2cb2017254234c13a7f4db1612cd1ab82f811b0659e57721a7f16141818203"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/select2/i18n/cs.js",
+            "size": 1292,
+            "hash": "b7ff0e5958ba632dbd29a6eab3f975b0cd924ab8d4020653c1b4d7fe6d0c08bf"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/select2/i18n/da.js",
+            "size": 828,
+            "hash": "b45da6bf315849660e537624b65dc6f77a4291ff95f60a270b193b85c039275a"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/select2/i18n/de.js",
+            "size": 866,
+            "hash": "e5bb297dc8a1329f325c3c1f72abc2fe75774136ed06e403991ddced43d0b45c"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/select2/i18n/dsb.js",
+            "size": 1017,
+            "hash": "2ad3f6c4da0fef9a169e86d4ad2ec4a7f04e14fcdc30d0edd30c8f9e46c817f4"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/select2/i18n/el.js",
+            "size": 1182,
+            "hash": "21dbc3f1e63f2a95fd7dd1ef95ddce32f41f62c9daa098c37959206c87a67e7f"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/select2/i18n/en.js",
+            "size": 844,
+            "hash": "0bae803be28e5cdb97116c21c1f8d80456b7806708cec3c51d0019f6a4a1dc6a"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/select2/i18n/es.js",
+            "size": 922,
+            "hash": "22165a232f2e7d376e3b6faf06b8afb303028e53e4eefae4e0ff35a43e81d123"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/select2/i18n/et.js",
+            "size": 801,
+            "hash": "2e02e074e90a8dceb7b2fc4fd546bb034cded4be96aefd17ea7a7ef22443e73c"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/select2/i18n/eu.js",
+            "size": 868,
+            "hash": "acb9ad3fb6c0fdab643488fcd65feb89333b7e2e425f156b1411c5c9d74ef87c"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/select2/i18n/fa.js",
+            "size": 1023,
+            "hash": "7ea66413d7bcb6ddab67b3ab0c63e23ac4cd763dd2dabd028db75d55404378c0"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/select2/i18n/fi.js",
+            "size": 803,
+            "hash": "2951a2ae118635e7bf888a4c18b5f91331ff52435ef8538f0bfd38f381be410d"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/select2/i18n/fr.js",
+            "size": 924,
+            "hash": "6a3d2adab749378ec144173d2eabec83192e3ce71601b66c5055256e0bb0758d"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/select2/i18n/gl.js",
+            "size": 924,
+            "hash": "1d225a7c8f39c8aa785b38c53d3e7fdde67ff9740360fcf37f80569aeeae5c79"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/select2/i18n/he.js",
+            "size": 984,
+            "hash": "0c83d1287c343640ee52d2cd19d4e76197280a2377bacb4763e50c9b0df857fb"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/select2/i18n/hi.js",
+            "size": 1175,
+            "hash": "9ba66a88a67f8f3c33545802f2f9188b0cb8947e5f244315f8b4cf54ed96bb8d"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/select2/i18n/hr.js",
+            "size": 852,
+            "hash": "35c9539434e23455f5cb45b52e58f5d3e648a1751877bbc35eac9e509eefdc1e"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/select2/i18n/hsb.js",
+            "size": 1018,
+            "hash": "1532eccdcac669e9535bae96579d2efeb4ba1d5d1267143a561a62dad9e00ba3"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/select2/i18n/hu.js",
+            "size": 831,
+            "hash": "dcf7549344a91d8f87fa1eb6c289b0e00cb244cba394673afe8c56f8bd56c8eb"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/select2/i18n/hy.js",
+            "size": 1028,
+            "hash": "04b8747e7b6bc2dc0dc254288b02e4750395c8d5c77664692f6f29f96e45b038"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/select2/i18n/id.js",
+            "size": 768,
+            "hash": "7c627ef80c3bd0fa739371202e317557f42fa83daafee7d78e740823266a6207"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/select2/i18n/is.js",
+            "size": 807,
+            "hash": "827d1d748a939c95f8c24fad582e6014e449b357648081fd30ec0b96306e40ad"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/select2/i18n/it.js",
+            "size": 897,
+            "hash": "906c6d6a9c214458f7bbf22163fef359984a811e42ad99a66ac4f9c3e6a85d13"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/select2/i18n/ja.js",
+            "size": 862,
+            "hash": "b59e2ca9dc7f4847096e25b9f9ca070d5f0556612525103767cdb61051e48cb3"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/select2/i18n/ka.js",
+            "size": 1195,
+            "hash": "0c7e95ae755d47c497ea4b28dadcea9c9aacdf6b82a41372bcff4ac6cdecb232"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/select2/i18n/km.js",
+            "size": 1088,
+            "hash": "c7d8728de9e77358b4a1e62b1541d09d81da917a6fed60fb31217e73d01a4e38"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/select2/i18n/ko.js",
+            "size": 855,
+            "hash": "226981f6fee0d9928498f15441e5eb2fbdb75448db8845b761e9717aa1c48077"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/select2/i18n/lt.js",
+            "size": 944,
+            "hash": "653fb8e626d5c1d5a74f2a3e4eab2a5b6363229f73c38c6ce52a3bf0a31bfecf"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/select2/i18n/lv.js",
+            "size": 900,
+            "hash": "847a442b87984a8263fdfbc0db097c412b8996e37187e4efa7a5199be65869e1"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/select2/i18n/mk.js",
+            "size": 1038,
+            "hash": "3d2a71ae70692f8492b3d4dbd2a7560fbba6508c88a11d95d5fa6a450bc25dc0"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/select2/i18n/ms.js",
+            "size": 811,
+            "hash": "342cf8467b642597fc6030c2d53141bcafa7927f83f9c18dcbbc2886aa9a403e"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/select2/i18n/nb.js",
+            "size": 778,
+            "hash": "79db8a086efa2778883eb51e9020c2abbe35ae71b8c43ed353713b2e26fbb0f1"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/select2/i18n/ne.js",
+            "size": 1357,
+            "hash": "4108c33d013a1832974b9731ab62518e4dcc183be38372337b1ef5661a276e3f"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/select2/i18n/nl.js",
+            "size": 904,
+            "hash": "25cb4b7d3a4b4395055edc809a06c2bd23d4b56d1fcb5984ee835870c23dd1b2"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/select2/i18n/pl.js",
+            "size": 947,
+            "hash": "ea012e2989c975ff1c6cf111b30fa6b5d720741c9426e2dfd50507d1a49a8cca"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/select2/i18n/ps.js",
+            "size": 1049,
+            "hash": "e09e2c66d49abf1af5bd97719a7b9bd89d07d2aaf54bc5a736c4de85f75fab83"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/select2/i18n/pt-BR.js",
+            "size": 876,
+            "hash": "d0315ed47bbd7c40d25e0a633ce42b03a12ad2b19bd793516ec1a1d54e2f12bd"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/select2/i18n/pt.js",
+            "size": 878,
+            "hash": "2f98eacfccdce4117cba4ae1a48dafbc6acd477e17ef8f3675c917f8852e5290"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/select2/i18n/ro.js",
+            "size": 938,
+            "hash": "01a75be8b574bb62f69823a0c97d9c619eb1239b034fd388dd5ec7c2eb9e8af3"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/select2/i18n/ru.js",
+            "size": 1171,
+            "hash": "6d5e9e995084f656342f36d537ced628000014b513de42aa1339fae35a49dbda"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/select2/i18n/sk.js",
+            "size": 1306,
+            "hash": "3276d470fea9227b81cd35bf2ffc265d8f203cb18239c2b2cd01ed845908999a"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/select2/i18n/sl.js",
+            "size": 925,
+            "hash": "2cf20ac29f60a7f59c51ce14695b7f7324a534be7f9667d996dd1b82dc279059"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/select2/i18n/sq.js",
+            "size": 903,
+            "hash": "a08c492d82ed2b4bc6da0dece63b062e7e251ee0e04a877160058bd01c87447a"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/select2/i18n/sr-Cyrl.js",
+            "size": 1109,
+            "hash": "0684f629d89c7991a0c61112473dd6d89ffb08562a5b2672a2fd9892d528ff6c"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/select2/i18n/sr.js",
+            "size": 980,
+            "hash": "ec410b617c1bd2d212b2ebcbe9ea2bc734ef88c2bea1e752bd9bc4642325a065"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/select2/i18n/sv.js",
+            "size": 786,
+            "hash": "73a9ea5268ad2ace3fe809580ef8827ba1ea2f2387aa8b7622bbc94468e3d491"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/select2/i18n/th.js",
+            "size": 1074,
+            "hash": "b1a0cf2e4fb676ae5fb4a0af5b5c1d76424e83e99703e194a0f3d53a5499ac86"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/select2/i18n/tk.js",
+            "size": 771,
+            "hash": "99410695bfbd9d01efcdc4d823ed648ec07b26c3d11a92f159b8eb27c511b615"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/select2/i18n/tr.js",
+            "size": 775,
+            "hash": "743cfc892a74eef6f1f6072222acf9eb099cd932c78f9bfca3a7acef9bf39995"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/select2/i18n/uk.js",
+            "size": 1156,
+            "hash": "322c61143bdd45d6bec23f938eb374d7cb3b47b137e1a421463cf86dac6b74ac"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/select2/i18n/vi.js",
+            "size": 796,
+            "hash": "9b04dec92b14020aaefc803a86f17333285c488335cc684d60aabc1bb5ffb693"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/select2/i18n/zh-CN.js",
+            "size": 768,
+            "hash": "a2501dbcf439aac37d219bb100a80355033e6e57b15275930d35d4b62a2bca02"
+        },
+        {
+            "type": "file",
+            "name": "static/admin/js/vendor/select2/i18n/zh-TW.js",
+            "size": 707,
+            "hash": "0e70c11bdcb004e7f155bd955e0ef5c4147fb4408f031c3b40b859397889e1fa"
+        }
+    ]
+}
